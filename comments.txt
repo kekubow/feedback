@@ -1,2 +1,4 @@
 + Nice refresher on basic unix commands.
 - Not sure how useful git will be for my everyday research.
+CMI - I agree on both.  I am always surprised to learn something new in the intro Unix.  I never knew how to search in less.
+
