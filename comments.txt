@@ -1,2 +1,5 @@
 + Nice refresher on basic unix commands.
 - Not sure how useful git will be for my everyday research.
+- I already knew most of the unix commands.
++ I did learn a few news ones.
++ git is interesting, but I agree I am not sure how much I will use it.
