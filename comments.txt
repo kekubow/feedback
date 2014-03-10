@@ -1,0 +1,2 @@
++ Nice refresher on basic unix commands.
+- Not sure how useful git will be for my everyday research.
